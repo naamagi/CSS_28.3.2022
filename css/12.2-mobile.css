@@ -1,0 +1,17 @@
+@media (max-width:500px) {
+    
+    
+#container {
+    text-align: left;
+    margin: 40px;
+}
+    
+    .box {
+        font-size: 20px;
+        height: auto;
+        box-sizing: border-box;
+        margin-bottom: 15px;
+        float: none;
+        width: 100%;
+    }
+}
